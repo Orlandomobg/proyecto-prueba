@@ -1,0 +1,12 @@
+seguimiento de clase de usecontext 
+que es un hook
+
+ayer se hizo dos contextos
+
+uno de user y otro de producto
+
+y cada vez que se tenia que creaar, se tenia que hacer un contexto nuevo..
+
+
+cuando las aplicaciones crecen, no conviene hacer useState
+si no que dirtectamente haces un objeto y ahi aplicas un useReducer
