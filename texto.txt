@@ -1,0 +1,7 @@
+crear la fase de produccion
+
+ejecuta el npm run build
+
+se te crea una carpeta
+
+esa carpeta la quitas del gitignore
