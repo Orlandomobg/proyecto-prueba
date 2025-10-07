@@ -14,4 +14,18 @@ servido gratuito
 
 queremos publicar una web static o web services 
 
-agarrmaos el git 
+agarramos el git 
+
+y ya de ahi hacemos la static web
+
+con eso, ponemos el npm i y debajo de esa linea se pone carpeta dist
+
+se ejecuta, se espera para que te de el link, y listo
+
+si quieres hacer cambio.
+1 se hace en terminal npm run build
+2 se hace en git el add.
+3 se hace el commit 
+4 se hace push 
+
+te vas a render, y ya de ahi te das cuenta de que ya esta ready 
