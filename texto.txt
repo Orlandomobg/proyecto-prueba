@@ -5,3 +5,13 @@ ejecuta el npm run build
 se te crea una carpeta
 
 esa carpeta la quitas del gitignore
+
+hacemos commit y push
+
+buscamos render.com
+
+servido gratuito
+
+queremos publicar una web static o web services 
+
+agarrmaos el git 
